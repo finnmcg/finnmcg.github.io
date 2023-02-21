@@ -3,7 +3,7 @@
 <html data-init="no-js">
 <head>
 <meta charset="UTF-8" />
-<title>Harry de Vries</title>
+<title>Exhibition</title>
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <!--
 
@@ -99,7 +99,7 @@ var LZString={_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01234
 		<div id="init-lacking">Your browser lacks required capabilities. Please upgrade it or switch to another to continue.</div>
 		<div id="init-loading"><div>Loading&hellip;</div></div>
 	</div>
-	<tw-storydata name="Harry de Vries" startnode="1" creator="Twine" creator-version="2.3.13" ifid="CC35E686-BCFA-4618-B15C-0B2D6072BAA7" zoom="1" format="SugarCube" format-version="2.34.1" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">.center {
+	<tw-storydata name="Exhibition" startnode="1" creator="Twine" creator-version="2.3.13" ifid="CC35E686-BCFA-4618-B15C-0B2D6072BAA7" zoom="1" format="SugarCube" format-version="2.34.1" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">.center {
   text-align: center;
 }
 
@@ -194,10 +194,10 @@ $(document).on(":passagerender", function (ev) {  /* Triggers on passage render 
 &lt;span class=&quot;hiddenlink&quot;&gt;[[Harry de Vries]]&lt;/span&gt;
 @@</tw-passagedata><tw-passagedata pid="2" name="PassageHeader" tags="" position="251,33" size="100,100">@@.center;
 &lt;&lt;if passage() isnot &quot;Splash&quot;&gt;&gt;\
-[[Harry de Vries]] [[works]] [[CV/Contact]] 
+[[Introduction]] [[Works]] [[Bibliography]] 
 \&lt;&lt;/if&gt;&gt;
 @@
-</tw-passagedata><tw-passagedata pid="3" name="CV/Contact" tags="" position="299,201" size="100,100">@@.justify;
+</tw-passagedata><tw-passagedata pid="3" name="Bibliography" tags="" position="299,201" size="100,100">@@.justify;
 Harry de Vries
 //born 1999, Eora/Sydney//
 
@@ -218,12 +218,12 @@ hjsdvries [at] gmail [dot] com
 
 &#39;&#39;prizes&#39;&#39;
 //2020//   Finalist, Jocelyn Maughan sketchbook prize 
-@@</tw-passagedata><tw-passagedata pid="4" name="Harry de Vries" tags="" position="169,201" size="100,100">@@.justify;
+@@</tw-passagedata><tw-passagedata pid="4" name="Introduction" tags="" position="169,201" size="100,100">@@.justify;
 &#39;&#39;Harry de Vries&#39;&#39; //(b. 1999)// is a multimedia artist living and working on unceded Gadigal land. He holds a BFA from the National Art School. Through a spectrum of digital and material practices, his work investigates how visual art participates in the utopian impulse and the making of the future.
 
 Harry has participated in shows at numerous galleries throughout Sydney, including M2 Gallery, Anti-Gallery, and the Rayner Hoff Project space. He was a finalist in the 2020 Jocelyn Maughan Sketchbook prize finalist and is collected in numerous private collections. 
 
-His work is currently exhibited as part of the 2022 National Art School Grad Show and will be featured in the inaugural issue of the forthcoming Fluid Thinking magazine. </tw-passagedata><tw-passagedata pid="5" name="works" tags="" position="540,153" size="100,100">@@.center;
+His work is currently exhibited as part of the 2022 National Art School Grad Show and will be featured in the inaugural issue of the forthcoming Fluid Thinking magazine. </tw-passagedata><tw-passagedata pid="5" name="Works" tags="" position="540,153" size="100,100">@@.center;
 &lt;&lt;link &quot;2022&quot;&gt;&gt;
 	&lt;&lt;toggleclass &quot;#2022&quot; &quot;hide&quot;&gt;&gt;
 &lt;&lt;/link&gt;&gt;
